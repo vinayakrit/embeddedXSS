@@ -1,0 +1,2 @@
+# embeddedXSS
+toTestXSSEmbedded
